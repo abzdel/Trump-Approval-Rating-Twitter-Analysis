@@ -1,7 +1,7 @@
 # Trump-Approval-Rating-Twitter-Analysis
 
 ## Project Overview
-In this project, we scrape tweets about President Trump to see how the sentiment of these tweets change with his approval rating throughout the COVID19 Pandemic. We also use twitter's API to scrape more recent tweets by location and produce an election simulation.
+In this project, we scrape tweets about COVID19, stimulus checks, and President Trump to see how the sentiment of these tweets change with his approval rating throughout the COVID19 Pandemic. We also use twitter's API to scrape more recent tweets by location and produce an election simulation.
 
 ## Task
   This project explores Donald Trump’s approval rating based on tweets regarding the US stimulus checks as well as tweets regarding Coronavirus. We explore how Trump's approval rating moves across time in conjunction with these tweets. Our goal is to see if there is a correlation between the number (and sentiment) of tweets with a keyword and the approval rating. We will annotate key dates from the Trump Administration's coronavirus timeline on our plots as well. We will then take the results from this analysis and see how they correlate to the winner of our election simulation.
