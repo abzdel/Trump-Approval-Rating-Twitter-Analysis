@@ -10,7 +10,7 @@ In this project, we scrape tweets about COVID19, stimulus checks, and President 
 - Part 2 deals produce an election simulation based off of current tweets (sample of 10 states)
 
 ## Run Locally
-1. Run the command `git clone https://github.com/abzdel/Spotify-vs.-Apple-Music-Twitter-Analysis`
+1. Run the command `git clone https://github.com/abzdel/Trump-Approval-Rating-Twitter-Analysis`
 2. Run `npm install`
 3. Run `npm start-dev`
 
